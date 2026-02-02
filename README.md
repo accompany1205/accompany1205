@@ -190,18 +190,6 @@ Monitoring → Alerting → Dashboard
 
 <hr/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talharauf739739&show_icons=true&count_private=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talharauf739739&layout=compact&langs_count=10&theme=tokyonight" height="160"/>
-</p>
-
-
-
-<hr/>
-
 <h3 align="center">
 Open to Senior / Staff AI Roles — Building Scalable, Enterprise-Grade AI Systems
 </h3>
